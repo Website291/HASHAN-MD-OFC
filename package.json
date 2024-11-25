@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "HASHAN MD",
   "version": "2.5",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By Hashan Sathsara",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name HASHAN MD",
+    "stop": "pm2 stop HASHAN MD",
+    "restart": "pm2 restart HASHAN MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
