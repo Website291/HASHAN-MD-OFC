@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "94741026371",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
@@ -17,11 +17,11 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "MR HASHAN",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
-  "EMOJI": "🏷"
+  "EMOJI": "💫"
 };
